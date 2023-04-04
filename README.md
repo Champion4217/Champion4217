@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
 <h3 align="center">A passionate Full Stack Web developer from India.</h3>
 
-<img align = "right" alt = "coding" width = "400" src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img align = "right" alt = "coding" width = "400" src = "https://github.com/Champion4217/Champion4217/blob/main/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champion4217&label=Profile%20views&color=0e75b6&style=flat" alt="champion4217" /> </p>
 

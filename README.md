@@ -49,4 +49,4 @@
 
 <hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Champion4217&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D&mode=daily)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Champion4217&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)

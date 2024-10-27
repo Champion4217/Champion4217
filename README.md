@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champion4217&label=Profile%20views&color=0e75b6&style=flat" alt="champion4217" /> </p>
 
-- 🔭 I’m currently learning **Data Structures And Algorithm**
+- 🔭 I’m currently learning **Cloud Computing**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 💬 Ask me about **anything related to Web development**
+- 💬 Ask me about **anything related to Web development and Data Structures Algorithm**
 
 - 📫 How to reach me **singhsiddharth1102@gmail.com**
 
